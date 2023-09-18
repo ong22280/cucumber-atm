@@ -70,4 +70,8 @@ public class StepDefATM {
                      bank.getCustomer(id).getAccount().getBalance());
     }
 
+    @When("I deposit {int}")
+    public void i_deposit(int amount) {
+        atm.deposit(amount);
+    }
 }
