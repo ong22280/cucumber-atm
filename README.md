@@ -1,8 +1,6 @@
-# Bank Example using Cucumber
+# Bank BDD and Cucumber
 
-6410401183 Sittipong Hemloun
-
-[Cucumber presentation slide](https://github.com/ladyusa/cucumber-atm/blob/master/cucumber.pdf)
+- Sittipong Hemloun 6410401183
 
 ## feature
 <img src="feature.png" width="531" alt="">
